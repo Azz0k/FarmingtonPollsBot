@@ -3,6 +3,7 @@ __pycache__/
 venv/
 imports/__pycache__/
 imports/.pytest_cache/
+dataframe.txt
 
 imports/config.py
 # Byte-compiled / optimized / DLL files
